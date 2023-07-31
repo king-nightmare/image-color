@@ -18,3 +18,7 @@
   margin: auto;
   margin-bottom: 0.5rem;
 }
+.imageWcolor {
+  display: flex;
+  margin-left: auto;
+}
