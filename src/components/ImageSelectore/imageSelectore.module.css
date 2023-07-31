@@ -21,4 +21,5 @@
 .imageWcolor {
   display: flex;
   margin-left: auto;
+  flex-wrap: wrap;
 }
